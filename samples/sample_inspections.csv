@@ -1,0 +1,11 @@
+inspection_id,hive_id,inspected_on,mite_count,queen_status,treatment_date,notes
+,H1,2024-04-14,2,queenright,,"first spring check; 6 frames of brood"
+,H1,2024-04-28,5,queenright,,"building up fast, added a super"
+,H1,2024-05-12,11,queenright,2024-05-12,"oxalic acid dribble; 11 mites on 300 bees"
+,H1,2024-05-26,3,queenright,,"mite drop after treatment, even laying pattern"
+,H2,2024-04-14,1,queenless,,"no eggs found, queen lost over winter"
+,H2,2024-04-21,0,virgin,,"queen cell opened, virgin queen seen"
+,H2,2024-05-19,8,queenright,2024-05-19,"requeened and treated; ""marked"" queen"
+,H3,2024-05-03,14,queenright,2024-05-04,"heavy varroa load, formic acid pads"
+,H3,2024-05-17,6,queenright,,"mite fall dropping, pads removed"
+,H3,2024-06-01,2,unknown,,"patchy brood, nosema check pending"
