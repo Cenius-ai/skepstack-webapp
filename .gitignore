@@ -1,0 +1,19 @@
+# Local state: the ledger is the user's data, never committed
+skepstack-ledger.jsonl
+*.jsonl
+*.csv
+!samples/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
+# Environment
+.env
+
+# OS
+.DS_Store

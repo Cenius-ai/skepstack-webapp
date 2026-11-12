@@ -1,0 +1,4 @@
+# SkepStack runtime dependencies: none.
+# The tool is a single standard-library-only file (skepstack.py).
+# pytest is the only package needed, and only to run the test suite.
+pytest==9.1.1
