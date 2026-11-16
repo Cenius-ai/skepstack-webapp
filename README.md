@@ -83,7 +83,7 @@ _Full guide: [`USAGE.md`](USAGE.md)_
 
 ## Architecture
 
-Folder layout: `samples/`, `scripts/`, `tests/`. Kick off `./install.sh` to pull packages and seed the database, then the app is up. Built in Full-stack app (32 files). For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
+Folder layout: `samples/`, `scripts/`, `tests/`. Kick off `./install.sh` to pull packages and seed the database, then the app is up. Built in Full-stack app (22 files). For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
 
 ## FAQ
 
